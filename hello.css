@@ -1,0 +1,20 @@
+body{
+  background-color: aqua;
+ font-size: 25px;
+}
+.main{
+margin-left: 500px;
+height:1350px;
+width:350px;
+border:2px solid black;
+}
+.form-box{
+  text-align: center;
+}
+button{
+  height:35px;
+  width:60px;
+  background-color: rgb(238, 45, 11);
+  color: antiquewhite;
+  border-radius: 4px;
+}
